@@ -10,6 +10,7 @@ This repository contains the source code for the Java book, named as **Java: The
 
 - An Overview of Java
 - Data Types, Variables, and Arrays
+- Operators
 
 ### Prerequisites
 
